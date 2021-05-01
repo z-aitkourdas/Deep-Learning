@@ -7,3 +7,4 @@
 
 ### For more informations about this specialization  
 [Click Me!](https://www.coursera.org/specializations/deep-learning)
+
